@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩草木鳥獸蟲魚疏
-#+DATE: 2015-09-23 09:36:27
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:04:17.243465
+#+PROPERTY: ID KR1c0005
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷上
 <pb:KR1c0005_WYG_001-1a>¶
 欽定四庫全書¶
 　毛詩草木鳥獸蟲魚疏卷上¶
@@ -344,4 +346,3 @@
 數寸䰞以苦酒豉汁浸之可以就酒及食¶
 　¶
 　毛詩草木鳥獸蟲魚疏卷上¶
-
